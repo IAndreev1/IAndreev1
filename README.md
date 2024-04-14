@@ -6,7 +6,7 @@
 
 🎓 Additionally, I'm excited to share that I'll be continuing my academic journey at TU Wien by pursuing a master's degree in Software Engineering.
 
-📫 Feel free to reach out to me via email at [your email address], or connect with me on LinkedIn [your LinkedIn profile].
+📫 Feel free to reach out to me via email at ivan.andreev.dev@gmail.com , or connect with me on LinkedIn www.linkedin.com/in/ivan-andreev-738118253.
 
 
 
