@@ -1,13 +1,16 @@
-👋 Hi, I’m Ivan Andreev, @IAndreev1, a recent graduate in Software Engineering from TU Wien!
+👋 Hi, I’m Ivan Andreev, 
 
-🌱 I am deeply passionate about object-oriented programming, particularly in Java. You can explore my Spring projects on GitHub [Easy Flat](https://github.com/IAndreev1/EasyFlat) or [Sell It](https://github.com/IAndreev1/sellit).
+Software Engineer with a strong interest in backend development, distributed systems and software architecture.
 
-🤖 My interests extend beyond web development to include artificial intelligence (AI) and data analysis. For my bachelor's thesis, I focused on controversy measurement in discussions on [Der Standard](https://www.derstandard.at) employing graph theory and leveraging various Python libraries for data analysis. I also utilized language models such as BERT and Gemini for my research.
+🎓 I completed my Bachelor's degree in Software & Information Engineering at TU Wien and continued my education with a Master's programme in Software Engineering, where my research focuses on abstract argumentation frameworks, AI and online discussion analysis.
 
-🎓 Additionally, I'm excited to share that I'll be continuing my academic journey at TU Wien by pursuing a master's degree in Software Engineering.
+💼 I gained professional experience at Siemens Mobility, developing enterprise applications using Java, Spring Boot, Angular and TypeScript.
 
-📫 Feel free to reach out to me via email at ivan.andreev.dev@gmail.com , or connect with me on LinkedIn www.linkedin.com/in/ivan-andreev-738118253.
+🌱 I enjoy building reliable applications with Java and Spring Boot. You can explore some of my projects on GitHub, including **Easy Flat** and **Sell It**.
 
+🤖 Beyond web development, I am passionate about artificial intelligence, machine learning and data analysis. My academic work explores polarization and controversy measurement using graph theory, natural language processing and large language models.
+
+📫 Feel free to reach out via **ivan.andreev.dev@gmail.com** or connect with me on LinkedIn: **linkedin.com/in/ivan-andreev-738118253**
 
 
 
